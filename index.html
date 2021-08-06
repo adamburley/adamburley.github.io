@@ -3,3 +3,9 @@ layout: default
 title: Hello world title!
 ---
 <h1>Hello Whirled!</h1>
+<table border=1>
+  <tr><th>Link</th></th>Notes</th></tr>
+  {% for site in site.data.sampledata %}
+<tr><th><a href="{{ site.url }}" target=_blank>{{ site.title }}</a></th><td>{{ site.notes. }}</td></tr>
+  {% endfor }
+</table>
