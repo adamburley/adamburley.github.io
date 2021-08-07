@@ -10,4 +10,11 @@
       <a href="/kb/">KnowledgeBase</a>
     </td>
   </tr>
+  <tr>
+    <td colspan=3>
+      {% for tag in site.tags %}
+      {{ tag[0] }} &nbsp;
+      {% endfor %}
+    </td>
+  </tr>
 </table>
