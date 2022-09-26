@@ -1,7 +1,3 @@
----
-title: Adam Burley, technology and opinions
-description: Personal blog of Adam Burley, IT Systems Engineer, technology entheusiast, father.
----
 
 # Hello, world!
 
