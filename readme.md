@@ -14,8 +14,9 @@ sorry.
 
 
 ## Post name goes here
-### Stinger?
-#### Date?
+*Stinger? (Date?)*
+
+&nbsp;
 
 Preview text?
-[link][post-name-goes-here.md]
+[link](post-name-goes-here.md)
