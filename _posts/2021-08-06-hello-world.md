@@ -1,5 +1,4 @@
 ---
-layout: knowledgebase
 title: Hello Posts!
 permalink: /helloworld/
 author: Adam Burley
